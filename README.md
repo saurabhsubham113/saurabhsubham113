@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm subham saurabh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Issue tracker**
+- 🔭 I’m currently working on **Rent tracker**
 
-- 🌱 I’m currently learning **svg animations**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **react.js**
 
