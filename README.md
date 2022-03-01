@@ -28,7 +28,7 @@
 
 ## Let's Learn Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:venusbumi2@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:saurabhsubham113@gmail.com">contact me through email</a> me.
 
   </td>
   <td width="50%" valign="top">
