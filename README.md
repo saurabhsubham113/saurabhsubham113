@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm subham saurabh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Rent tracker**
+- 🔭 I’m currently working in **Lenskart**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Chrome Tools**
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **saurabhsubham113@gmail.com**
 
